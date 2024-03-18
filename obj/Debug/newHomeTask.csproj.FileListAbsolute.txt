@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\newHomeTask\newHomeTask\bin\Debug\newHomeTask.exe.config
+C:\Users\HP\source\repos\newHomeTask\newHomeTask\bin\Debug\newHomeTask.exe
+C:\Users\HP\source\repos\newHomeTask\newHomeTask\bin\Debug\newHomeTask.pdb
+C:\Users\HP\source\repos\newHomeTask\newHomeTask\obj\Debug\newHomeTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\newHomeTask\newHomeTask\obj\Debug\newHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\newHomeTask\newHomeTask\obj\Debug\newHomeTask.exe
+C:\Users\HP\source\repos\newHomeTask\newHomeTask\obj\Debug\newHomeTask.pdb
